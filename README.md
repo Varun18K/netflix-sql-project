@@ -56,9 +56,9 @@ netflix-sql-project/
 │   ├── netflix_data_cleaning.sql
 │   └── Netflix_business_problems&solutions.sql
 ├── screenshots/
-│   ├── business_query_1.png
-│   ├── business_query_2.png
-│   └── business_query_3.png
+│   ├── Screenshot_1.png
+│   ├── Screenshot_2.png
+│   └── Screenshot_3.png
 └── README.md
 
 ```
