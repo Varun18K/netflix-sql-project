@@ -1,0 +1,36 @@
+-- Schema
+
+-- CREATE DATABASE netflix_db;
+-- USE netflix_db;
+
+-- CREATE TABLE netflix_titles_raw (
+--     show_id VARCHAR(10),
+--     type TEXT,
+--     title TEXT,
+--     director TEXT,
+--     cast TEXT,
+--     country TEXT,
+--     date_added TEXT,
+--     release_year INT,
+--     rating TEXT,
+--     duration TEXT,
+--     listed_in TEXT,
+--     description TEXT
+-- );
+
+-- CREATE TABLE netflix_titles_clean (
+--     show_id VARCHAR(10),
+--     type VARCHAR(10),
+--     title TEXT,
+--     director TEXT,
+--     cast TEXT,
+--     country TEXT,
+--     date_added DATE,
+--     release_year INT,
+--     rating TEXT,
+--     duration TEXT,
+--     listed_in TEXT,
+--     description TEXT,
+--     duration_value INT,
+--     duration_unit VARCHAR(15)
+-- );
