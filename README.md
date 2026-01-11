@@ -164,5 +164,5 @@ It showcases practical SQL skills relevant to data analyst and business intellig
 
 **Varun Karle**  
 GitHub: https://github.com/Varun18K
-```
+
 
